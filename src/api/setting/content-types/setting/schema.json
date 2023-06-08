@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "settings",
+  "info": {
+    "singularName": "setting",
+    "pluralName": "settings",
+    "displayName": "Setting",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "SiteTitle": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "email"
+    }
+  }
+}
