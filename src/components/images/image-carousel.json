@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_images_image_carousels",
+  "info": {
+    "displayName": "Image Carousel",
+    "icon": "picture"
+  },
+  "options": {},
+  "attributes": {
+    "Images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "Heading": {
+      "type": "string"
+    }
+  }
+}
