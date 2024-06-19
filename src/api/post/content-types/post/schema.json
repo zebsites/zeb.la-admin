@@ -23,6 +23,9 @@
     "PublishDate": {
       "type": "datetime",
       "required": true
+    },
+    "postID": {
+      "type": "uid"
     }
   }
 }

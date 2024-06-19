@@ -10,13 +10,14 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.10.7",
-    "@strapi/plugin-users-permissions": "4.10.7",
-    "@strapi/strapi": "4.10.7",
-    "better-sqlite3": "8.0.1"
+    "@strapi/plugin-i18n": "4.12.0",
+    "@strapi/plugin-users-permissions": "4.12.0",
+    "@strapi/strapi": "4.12.0",
+    "better-sqlite3": "8.0.1",
+    "strapi-html-editor": "^1.0.2"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Zeb Sola"
   },
   "strapi": {
     "uuid": "e84b8331-a787-4516-9248-79f67d7d61ac"
